@@ -1,0 +1,17 @@
+.wrapp{
+    display: flex;
+    align-items: center;
+}
+.circle{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+
+}
+
+.text{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 16px;
+    text-align: center;
+}
